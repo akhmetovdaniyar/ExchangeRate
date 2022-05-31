@@ -1,4 +1,4 @@
-package com.example.ExchangeRate.domain
+package com.example.ExchangeRate.model
 
 data class Rates(
     val AMD: Double,
