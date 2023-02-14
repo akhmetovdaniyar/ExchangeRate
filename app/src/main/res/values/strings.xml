@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExchangeRate</string>
+    <string name="main_name">Выгодно ли?</string>
+    <string name="ali_rate">Курс на Алиэкспресс</string>
+    <string name="off_rate">Курс Центробанка</string>
+    <string name="bank_rate">Средний курс в обменниках</string>
+    <string name="rub">руб.</string>
+    <string name="refresh">Обновить</string>
+    <string name="infroFrom">Информация взята с сайта alicoup.ru</string>
+</resources>
